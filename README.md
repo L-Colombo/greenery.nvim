@@ -1,3 +1,3 @@
-# Fuzz.nvim
+# Greenery.nvim
 
-A Neovim color theme inspire by the Stoner/Doom/Sludge metal music aesthetic.
+A Neovim color theme with green colors.
