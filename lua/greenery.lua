@@ -13,7 +13,6 @@ local palette = {
     forest         = "#51AE69",
     neon           = "#33ff00",
     leaf           = "#54B84D",
-    orange         = "#f37b25",
     -- Other colors
     blue           = "#008080",
     red            = "#fb0905",
@@ -91,8 +90,8 @@ greenery.color_groups = function(p)
         Todo                                  = { fg = p.neon, bg = p.black },
         Type                                  = { fg = p.neon },
         Underlined                            = { fg = p.blue, },
-        Visual                                = { fg = p.white, bg = p.leaf },
-        VisualNOS                             = { fg = p.white, bg = p.leaf },
+        Visual                                = { fg = p.white, bg = p.blue },
+        VisualNOS                             = { fg = p.white, bg = p.blue },
         WarningMSG                            = { fg = p.neon, },
         WildMenu                              = { fg = p.black, bg = p.neon },
         WinSeparator                          = { fg = p.forest },
