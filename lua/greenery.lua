@@ -127,6 +127,7 @@ greenery.color_groups = function(p)
         IblScope                              = { fg = p.light_grey, underline = false },
 
         -- Lazy
+        LazyInfo                              = { bg = p.dark_grey },
         LazyNormal                            = { bg = p.black },
         LazyReasonPlugin                      = { fg = p.neon },
         LazySpecial                           = { fg = p.blue },
